@@ -44,19 +44,4 @@ int main() {
     return 0;
 }
 
-/*
-Output:
-Enter the size of the array: 3
-Enter 3 elements:
-10 20 30
-
---- Memory Usage Analysis ---
-Array size: 12 Bytes
-Integer size: 4 Bytes
-Variable 'n' size: 4 Bytes
-Variable 'sum' size: 4 Bytes
-Variable 'i' size: 4 Bytes
-Total Space Complexity: 24 Bytes
-
-Sum of Array values: 60
-*/
+/**/
